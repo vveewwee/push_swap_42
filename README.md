@@ -2,6 +2,8 @@
 ![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
 ![GitHub All Releases](https://img.shields.io/badge/C-93.2-9cf)
 ![GitHub All Releases](https://img.shields.io/badge/Makefile-6.8-9cf)
+
+only the description of project, code in private repo
 # push_swap
 ---
 ### About push_swap 
